@@ -2,3 +2,9 @@ body {
 background: linear-gradient(white, purple, yellow);
     text-align: center;
 }
+
+navbar {
+position: absolute;
+    z-index: 99999;
+}
+
